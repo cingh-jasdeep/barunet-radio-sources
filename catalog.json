@@ -1,0 +1,12 @@
+{
+  "radio": [
+    {
+      "id": "radio_01",
+      "title": "Barunet Radio",
+      "genre": "Devotional",
+      "source": "",
+      "image": "/cover_images/barunet.jpg",
+      "site": "https://barusahib.org/"
+    }
+  ]
+}
