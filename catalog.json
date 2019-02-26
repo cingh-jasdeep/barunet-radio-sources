@@ -2,7 +2,8 @@
   "radio": [
     {
       "id": "radio_01",
-      "title": "Barunet Radio",
+      "title": "Barunet",
+      "album": "Radio Stations",
       "genre": "Devotional",
       "source": "http://s6.voscast.com:9832/stream/1/",
       "image": "cover_images/barunet.jpg",
