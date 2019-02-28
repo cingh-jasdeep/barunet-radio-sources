@@ -16,16 +16,16 @@
       "genre": "Devotional",
       "source": "http://live.sgpc.net:8090/1/",
       "image": "cover_images/sri_harmandir_sahib.jpg",
-      "site": "https://barusahib.org/"
+      "site": "https://sgpc.net/"
     },
     {
       "id": "radio_03",
-      "title": "Sri Harimandir Sahib (for slow internet)",
+      "title": "Sri Harimandir Sahib (slow internet)",
       "album": "Live Stations",
       "genre": "Devotional",
       "source": "http://sgpc.net:8000/1/",
       "image": "cover_images/sri_harmandir_sahib.jpg",
-      "site": "https://barusahib.org/"
+      "site": "https://sgpc.net/"
     }
   ]
 }
