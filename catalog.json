@@ -3,7 +3,7 @@
     {
       "id": "radio_01",
       "title": "Barunet",
-      "album": "Radio Stations",
+      "album": "Live Stations",
       "genre": "Devotional",
       "source": "http://s6.voscast.com:9832/stream/1/",
       "image": "cover_images/barunet.jpg",
@@ -11,11 +11,20 @@
     },
     {
       "id": "radio_02",
-      "title": "Barunet2",
-      "album": "Radio Stations",
+      "title": "Sri Harimandir Sahib",
+      "album": "Live Stations",
       "genre": "Devotional",
-      "source": "http://s6.voscast.com:9832/stream/1/",
-      "image": "cover_images/barunet.jpg",
+      "source": "http://live.sgpc.net:8090/1/",
+      "image": "cover_images/sri_harmandir_sahib.jpg",
+      "site": "https://barusahib.org/"
+    },
+    {
+      "id": "radio_03",
+      "title": "Sri Harimandir Sahib (for slow internet)",
+      "album": "Live Stations",
+      "genre": "Devotional",
+      "source": "http://sgpc.net:8000/1/",
+      "image": "cover_images/sri_harmandir_sahib.jpg",
       "site": "https://barusahib.org/"
     }
   ]
